@@ -1,0 +1,24 @@
+.d-none {
+  display: none;
+}
+
+.message-wrapper {
+  width: 100%;
+  max-width: 20rem;
+  margin: 1rem auto;
+  padding: 0.5rem;
+  text-align: center;
+  border-radius: 5px;
+}
+
+
+.success-message {
+  display: block;
+  border: 2px solid lightskyblue;
+}
+
+
+.fail-message {
+  display: block;
+  border: 2px solid red;
+}
